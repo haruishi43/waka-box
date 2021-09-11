@@ -29,3 +29,7 @@
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
    - **WAKATIME_API_KEY:** The API key for your WakaTime account.
+
+### TODO
+
+- [ ] Figure out how to avoid the 30 days inactivity for actions (commit counts as activity)
